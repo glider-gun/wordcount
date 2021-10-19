@@ -1,5 +1,5 @@
 [package]
-name = "wordcount"
+name = "glider-gun-bicycle-book-wordcount"
 version = "0.1.0"
 authors = ["glider-gun"]
 edition = "2018"

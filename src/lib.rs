@@ -36,7 +36,7 @@ impl Default for CountOption {
 /// 
 /// ```
 /// use std::io::Cursor;
-/// use wordcount::{count, CountOption};
+/// use glider_gun_bicycle_book_wordcount::{count, CountOption};
 /// 
 /// let mut input = Cursor::new("aa bb cc bb");
 /// let freq = count(input, CountOption::Word);
